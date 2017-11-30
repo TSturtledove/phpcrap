@@ -8,6 +8,8 @@
   </head>
   <body>
     <h1>yo</h1>
+    <?php echo "Hello World";
+    ?>
 
   </body>
 </html>
